@@ -1,0 +1,333 @@
+filename,year,month_name,section,sentiment,supply_up,supply_down,demand_up,demand_down,price_up,price_down
+MOMR_January_2019.pdf,2019,January,World Oil Demand,0.051126395534290284,7,3,4,3,0,1
+MOMR_January_2019.pdf,2019,January,World Oil Supply,-0.04308005120433851,22,32,5,35,0,6
+MOMR_January_2019.pdf,2019,January,Product Markets and Refining Operations,0.017821067821067824,0,2,0,2,0,1
+MOMR_January_2019.pdf,2019,January,Balance of Supply and Demand,-0.048186269994780616,1,0,0,2,0,0
+MOMR_February_2019.pdf,2019,February,World Oil Demand,-0.04054001554001552,3,3,0,3,0,0
+MOMR_February_2019.pdf,2019,February,World Oil Supply,-0.042453110063869585,15,33,9,30,4,8
+MOMR_February_2019.pdf,2019,February,Product Markets and Refining Operations,0.002959280303030308,0,2,0,2,0,2
+MOMR_February_2019.pdf,2019,February,Balance of Supply and Demand,-0.06034847810548748,1,2,0,3,0,0
+MOMR_March_2019.pdf,2019,March,World Oil Demand,0.09659792368125701,6,1,3,1,0,0
+MOMR_March_2019.pdf,2019,March,World Oil Supply,-0.04425110838667365,13,52,2,53,3,4
+MOMR_March_2019.pdf,2019,March,Product Markets and Refining Operations,0.06267403767403769,1,1,0,2,0,2
+MOMR_March_2019.pdf,2019,March,Balance of Supply and Demand,-0.06054559197416342,1,1,0,3,0,0
+MOMR_April_2019.pdf,2019,April,World Oil Demand,0.05290000000000001,0,0,0,0,0,1
+MOMR_April_2019.pdf,2019,April,World Oil Supply,-0.05038466569355713,18,35,2,37,2,5
+MOMR_April_2019.pdf,2019,April,Product Markets and Refining Operations,0.03577777777777778,0,1,0,1,1,0
+MOMR_April_2019.pdf,2019,April,Balance of Supply and Demand,-0.06284718231620888,1,0,0,2,0,0
+MOMR_May_2019.pdf,2019,May,World Oil Demand,-0.0016762523191094613,4,2,2,2,0,0
+MOMR_May_2019.pdf,2019,May,World Oil Supply,-0.025369035594035513,20,40,5,43,1,6
+MOMR_May_2019.pdf,2019,May,Product Markets and Refining Operations,0.011021103896103899,1,3,1,3,0,0
+MOMR_May_2019.pdf,2019,May,Balance of Supply and Demand,-0.06473031473031475,1,1,0,1,0,0
+MOMR_June_2019.pdf,2019,June,World Oil Demand,0.009352142110762806,3,2,2,1,0,0
+MOMR_June_2019.pdf,2019,June,World Oil Supply,-0.023387726048320356,15,33,4,32,1,4
+MOMR_June_2019.pdf,2019,June,Product Markets and Refining Operations,0.00557244174265451,0,0,0,0,0,1
+MOMR_June_2019.pdf,2019,June,Balance of Supply and Demand,-0.08294853294853298,1,0,0,2,0,0
+MOMR_July_2019.pdf,2019,July,World Oil Demand,0.04273855577047066,13,1,7,1,0,0
+MOMR_July_2019.pdf,2019,July,World Oil Supply,-0.00387140041530273,33,31,7,31,0,5
+MOMR_July_2019.pdf,2019,July,Product Markets and Refining Operations,0.10427072927072928,1,0,0,0,0,2
+MOMR_July_2019.pdf,2019,July,Balance of Supply and Demand,-0.05474761761890474,1,2,0,1,0,0
+MOMR_August_2019.pdf,2019,August,World Oil Demand,-0.0150453514739229,2,1,1,1,0,0
+MOMR_August_2019.pdf,2019,August,World Oil Supply,-0.003622619459121245,27,34,8,37,3,1
+MOMR_August_2019.pdf,2019,August,Product Markets and Refining Operations,0.05822314049586776,0,1,1,1,1,1
+MOMR_August_2019.pdf,2019,August,Balance of Supply and Demand,-0.05775118128059307,1,0,0,1,0,0
+MOMR_September_2019.pdf,2019,September,World Oil Demand,-0.1111111111111111,5,0,3,0,0,0
+MOMR_September_2019.pdf,2019,September,World Oil Supply,-0.014120322223349448,38,22,10,22,2,1
+MOMR_September_2019.pdf,2019,September,Product Markets and Refining Operations,0.10456762749445676,0,1,0,1,0,1
+MOMR_September_2019.pdf,2019,September,Balance of Supply and Demand,-0.05813630813630815,1,1,0,2,0,0
+MOMR_October_2019.pdf,2019,October,World Oil Demand,-0.04567234848484847,3,0,2,0,0,0
+MOMR_October_2019.pdf,2019,October,World Oil Supply,-0.0019456044909287784,28,38,7,40,3,2
+MOMR_October_2019.pdf,2019,October,Product Markets and Refining Operations,0.12086593204775019,0,0,1,1,1,1
+MOMR_October_2019.pdf,2019,October,Balance of Supply and Demand,-0.05719049020019896,1,1,0,2,0,0
+MOMR_November_2019.pdf,2019,November,World Oil Demand,-0.026811594202898543,4,0,2,0,0,1
+MOMR_November_2019.pdf,2019,November,World Oil Supply,-0.024587981391386883,24,35,4,36,3,0
+MOMR_November_2019.pdf,2019,November,Product Markets and Refining Operations,0.04829124579124581,3,0,1,0,1,0
+MOMR_November_2019.pdf,2019,November,Balance of Supply and Demand,-0.05829584358996127,1,0,0,1,0,0
+MOMR_December_2019.pdf,2019,December,World Oil Demand,0.0078219696969697,11,0,6,0,0,0
+MOMR_December_2019.pdf,2019,December,World Oil Supply,-0.009600711788211647,27,30,5,31,3,2
+MOMR_December_2019.pdf,2019,December,Product Markets and Refining Operations,0.053321995464852626,0,0,0,0,1,0
+MOMR_December_2019.pdf,2019,December,Balance of Supply and Demand,-0.05733287614475734,1,0,0,0,0,0
+MOMR_January_2020.pdf,2020,January,World Oil Demand,-0.05877477785372521,2,4,1,4,0,0
+MOMR_January_2020.pdf,2020,January,World Oil Supply,-0.01167240277688027,30,28,8,26,1,3
+MOMR_January_2020.pdf,2020,January,Product Markets and Refining Operations,0.06499242424242425,1,0,0,0,1,1
+MOMR_January_2020.pdf,2020,January,Balance of Supply and Demand,-0.0724112940630798,1,1,0,1,0,0
+MOMR_February_2020.pdf,2020,February,World Oil Demand,0.0321904761904762,4,1,3,1,0,0
+MOMR_February_2020.pdf,2020,February,World Oil Supply,-0.025164874020385426,34,43,4,42,2,3
+MOMR_February_2020.pdf,2020,February,Product Markets and Refining Operations,0.0699872448979592,0,1,0,1,1,0
+MOMR_February_2020.pdf,2020,February,Balance of Supply and Demand,-0.0743816612237665,2,0,1,0,0,0
+MOMR_March_2020.pdf,2020,March,World Oil Demand,0.03561894454751599,10,3,6,3,0,2
+MOMR_March_2020.pdf,2020,March,World Oil Supply,-0.025690867151458272,21,42,3,43,2,1
+MOMR_March_2020.pdf,2020,March,Product Markets and Refining Operations,0.007038239538239545,1,1,0,1,0,1
+MOMR_March_2020.pdf,2020,March,Balance of Supply and Demand,-0.05314055482594809,2,1,1,1,0,0
+MOMR_April_2020.pdf,2020,April,World Oil Demand,0.06708333333333336,4,6,1,6,0,2
+MOMR_April_2020.pdf,2020,April,World Oil Supply,-0.034980853533984474,33,48,5,41,6,2
+MOMR_April_2020.pdf,2020,April,Product Markets and Refining Operations,-0.005778090069134838,1,0,0,1,1,1
+MOMR_April_2020.pdf,2020,April,Balance of Supply and Demand,-0.07381088513163987,2,1,1,1,0,0
+MOMR_May_2020.pdf,2020,May,World Oil Demand,0.08928170594837262,1,6,0,5,0,1
+MOMR_May_2020.pdf,2020,May,World Oil Supply,-0.033615935915935945,23,33,5,38,1,1
+MOMR_May_2020.pdf,2020,May,Product Markets and Refining Operations,-0.038957115009746565,2,0,0,2,0,0
+MOMR_May_2020.pdf,2020,May,Balance of Supply and Demand,-0.07381088513163987,2,1,1,1,0,0
+MOMR_June_2020.pdf,2020,June,World Oil Demand,0.16590354090354095,0,12,0,8,0,0
+MOMR_June_2020.pdf,2020,June,World Oil Supply,-0.03610940756774091,15,35,6,38,2,2
+MOMR_June_2020.pdf,2020,June,Product Markets and Refining Operations,-0.030772406605739926,0,3,0,4,0,0
+MOMR_June_2020.pdf,2020,June,Balance of Supply and Demand,-0.0867849194120381,2,1,1,1,0,0
+MOMR_July_2020.pdf,2020,July,World Oil Demand,0.0398018648018648,7,2,2,3,0,0
+MOMR_July_2020.pdf,2020,July,World Oil Supply,-0.03799032569972309,22,27,8,34,2,2
+MOMR_July_2020.pdf,2020,July,Product Markets and Refining Operations,-0.05285694244027575,0,1,1,1,0,0
+MOMR_July_2020.pdf,2020,July,Balance of Supply and Demand,-0.05583134414910117,2,1,0,1,0,0
+MOMR_August_2020.pdf,2020,August,World Oil Demand,0.09830182072829133,9,2,4,2,0,0
+MOMR_August_2020.pdf,2020,August,World Oil Supply,-0.040750375415009595,17,32,8,41,1,2
+MOMR_August_2020.pdf,2020,August,Product Markets and Refining Operations,-0.06092760942760944,2,1,1,3,0,0
+MOMR_August_2020.pdf,2020,August,Balance of Supply and Demand,-0.061324984539270266,2,0,0,0,0,0
+MOMR_September_2020.pdf,2020,September,World Oil Demand,0.024182615629984052,6,3,2,2,0,1
+MOMR_September_2020.pdf,2020,September,World Oil Supply,-0.029391003912498295,19,30,7,35,1,6
+MOMR_September_2020.pdf,2020,September,Product Markets and Refining Operations,-0.049986672278338924,1,2,0,4,0,1
+MOMR_September_2020.pdf,2020,September,Balance of Supply and Demand,-0.0590928416821274,2,0,0,0,0,0
+MOMR_October_2020.pdf,2020,October,World Oil Demand,-0.040351239669421494,2,1,2,1,0,0
+MOMR_October_2020.pdf,2020,October,World Oil Supply,-0.03695964362631034,23,26,5,33,1,3
+MOMR_October_2020.pdf,2020,October,Product Markets and Refining Operations,-0.059781746031746005,0,0,0,0,0,0
+MOMR_October_2020.pdf,2020,October,Balance of Supply and Demand,-0.05579097856875636,2,0,0,0,0,0
+MOMR_November_2020.pdf,2020,November,World Oil Demand,0.08869865319865324,1,10,1,11,0,1
+MOMR_November_2020.pdf,2020,November,World Oil Supply,-0.03435688770104357,24,41,6,51,5,3
+MOMR_November_2020.pdf,2020,November,Product Markets and Refining Operations,-0.07169352252685589,1,1,0,3,0,0
+MOMR_November_2020.pdf,2020,November,Balance of Supply and Demand,-0.05595349095349097,2,0,0,0,0,0
+MOMR_December_2020.pdf,2020,December,World Oil Demand,0.03298611111111111,3,1,1,1,0,0
+MOMR_December_2020.pdf,2020,December,World Oil Supply,-0.03194800056956719,20,31,8,31,5,3
+MOMR_December_2020.pdf,2020,December,Product Markets and Refining Operations,-0.06615843666691122,0,2,0,2,0,1
+MOMR_December_2020.pdf,2020,December,Balance of Supply and Demand,-0.0489033189033189,2,0,0,0,0,0
+MOMR_January_2021.pdf,2021,January,World Oil Demand,0.10094696969696969,0,0,2,0,0,0
+MOMR_January_2021.pdf,2021,January,World Oil Supply,-0.022277860072845282,27,25,6,27,2,4
+MOMR_January_2021.pdf,2021,January,Product Markets and Refining Operations,-0.05300153207560618,3,1,1,2,0,1
+MOMR_January_2021.pdf,2021,January,Balance of Supply and Demand,-0.05697913197913199,2,0,0,0,0,0
+MOMR_February_2021.pdf,2021,February,World Oil Demand,0.12708333333333335,1,0,2,0,0,0
+MOMR_February_2021.pdf,2021,February,World Oil Supply,-0.04069533290401061,25,29,7,34,6,5
+MOMR_February_2021.pdf,2021,February,Product Markets and Refining Operations,-0.06876533189033189,3,2,0,2,0,0
+MOMR_February_2021.pdf,2021,February,Balance of Supply and Demand,-0.06491437072832423,2,0,0,0,0,0
+MOMR_March_2021.pdf,2021,March,World Oil Demand,0.026183712121212115,1,0,1,0,0,0
+MOMR_March_2021.pdf,2021,March,World Oil Supply,-0.035521559233449455,17,26,6,28,4,2
+MOMR_March_2021.pdf,2021,March,Product Markets and Refining Operations,-0.048337934207499406,2,2,1,2,0,0
+MOMR_March_2021.pdf,2021,March,Balance of Supply and Demand,-0.06133810633810636,2,0,0,0,0,0
+MOMR_April_2021.pdf,2021,April,World Oil Demand,0.07121212121212123,2,5,1,3,0,0
+MOMR_April_2021.pdf,2021,April,World Oil Supply,-0.03381010266397091,15,23,7,25,2,2
+MOMR_April_2021.pdf,2021,April,Product Markets and Refining Operations,-0.05996671258034895,1,1,1,1,0,0
+MOMR_April_2021.pdf,2021,April,Balance of Supply and Demand,-0.07813251563251565,2,0,0,0,0,0
+MOMR_May_2021.pdf,2021,May,World Oil Demand,0.08120293847566576,1,3,0,4,0,0
+MOMR_May_2021.pdf,2021,May,World Oil Supply,-0.02037461735438604,16,21,9,22,1,3
+MOMR_May_2021.pdf,2021,May,Product Markets and Refining Operations,0.03604118104118106,0,0,0,0,0,0
+MOMR_May_2021.pdf,2021,May,Balance of Supply and Demand,-0.07868951591973176,2,0,0,0,0,0
+MOMR_June_2021.pdf,2021,June,World Oil Demand,0.117979242979243,5,3,2,3,0,0
+MOMR_June_2021.pdf,2021,June,World Oil Supply,-0.029889508164662137,23,23,10,21,0,2
+MOMR_June_2021.pdf,2021,June,Product Markets and Refining Operations,-0.0903439153439154,2,1,0,1,0,0
+MOMR_June_2021.pdf,2021,June,Balance of Supply and Demand,-0.08758123279399875,2,0,0,0,0,0
+MOMR_July_2021.pdf,2021,July,World Oil Demand,0.12672176308539945,5,0,2,0,0,0
+MOMR_July_2021.pdf,2021,July,World Oil Supply,-0.027403557819832454,26,15,10,14,0,3
+MOMR_July_2021.pdf,2021,July,Product Markets and Refining Operations,-0.05561815635345047,1,2,1,3,0,0
+MOMR_July_2021.pdf,2021,July,Balance of Supply and Demand,-0.0560019497042398,2,0,0,0,0,0
+MOMR_August_2021.pdf,2021,August,World Oil Demand,0.07414285714285714,5,0,2,0,0,0
+MOMR_August_2021.pdf,2021,August,World Oil Supply,-0.03945143899310561,23,17,11,22,2,3
+MOMR_August_2021.pdf,2021,August,Product Markets and Refining Operations,-0.09529282977558844,0,1,0,1,0,1
+MOMR_August_2021.pdf,2021,August,Balance of Supply and Demand,-0.06418237151319861,2,0,0,0,0,0
+MOMR_September_2021.pdf,2021,September,World Oil Demand,0.0962715062715063,8,0,3,0,0,0
+MOMR_September_2021.pdf,2021,September,World Oil Supply,-0.03809144559144558,26,11,12,11,4,1
+MOMR_September_2021.pdf,2021,September,Product Markets and Refining Operations,-0.055081516923622176,1,0,0,1,0,0
+MOMR_September_2021.pdf,2021,September,Balance of Supply and Demand,-0.059788451582344734,2,0,0,0,0,0
+MOMR_October_2021.pdf,2021,October,World Oil Demand,0.12355072463768116,7,1,3,1,0,0
+MOMR_October_2021.pdf,2021,October,World Oil Supply,-0.027817502062921447,15,18,7,21,5,6
+MOMR_October_2021.pdf,2021,October,Product Markets and Refining Operations,-0.09935684974747483,2,1,1,0,1,2
+MOMR_October_2021.pdf,2021,October,Balance of Supply and Demand,-0.0599634909785286,2,0,0,0,0,0
+MOMR_November_2021.pdf,2021,November,World Oil Demand,0.10957300275482094,6,0,3,0,0,0
+MOMR_November_2021.pdf,2021,November,World Oil Supply,-0.0309559990662931,21,19,8,18,4,1
+MOMR_November_2021.pdf,2021,November,Product Markets and Refining Operations,-0.060015829941203094,0,1,0,1,1,0
+MOMR_November_2021.pdf,2021,November,Balance of Supply and Demand,-0.055452983997760136,2,0,0,0,0,0
+MOMR_December_2021.pdf,2021,December,World Oil Demand,0.10416666666666669,3,1,3,1,0,0
+MOMR_December_2021.pdf,2021,December,World Oil Supply,-0.028550740353294333,27,16,18,15,4,7
+MOMR_December_2021.pdf,2021,December,Product Markets and Refining Operations,-0.053402777777777764,3,1,3,1,1,1
+MOMR_December_2021.pdf,2021,December,Balance of Supply and Demand,-0.060676864594775066,2,0,0,0,0,0
+MOMR_January_2022.pdf,2022,January,World Oil Demand,0.08541666666666667,4,2,1,2,0,0
+MOMR_January_2022.pdf,2022,January,World Oil Supply,-0.04313711895743142,21,18,15,23,4,0
+MOMR_January_2022.pdf,2022,January,Product Markets and Refining Operations,-0.05544083694083697,1,1,1,1,0,0
+MOMR_January_2022.pdf,2022,January,Balance of Supply and Demand,-0.0617962675798497,2,0,0,0,0,0
+MOMR_February_2022.pdf,2022,February,World Oil Demand,0.10590411840411841,4,0,2,0,0,0
+MOMR_February_2022.pdf,2022,February,World Oil Supply,-0.03688761644993091,20,19,9,22,2,2
+MOMR_February_2022.pdf,2022,February,Product Markets and Refining Operations,-0.03129865254865252,1,1,1,2,0,0
+MOMR_February_2022.pdf,2022,February,Balance of Supply and Demand,-0.05905178155178157,1,0,0,0,0,0
+MOMR_March_2022.pdf,2022,March,World Oil Demand,0.04769230769230768,5,0,1,0,0,0
+MOMR_March_2022.pdf,2022,March,World Oil Supply,-0.026596452845228453,22,19,8,22,3,2
+MOMR_March_2022.pdf,2022,March,Product Markets and Refining Operations,-0.06335622895622903,1,1,1,1,0,0
+MOMR_March_2022.pdf,2022,March,Balance of Supply and Demand,-0.061680386112204305,1,0,0,0,0,0
+MOMR_April_2022.pdf,2022,April,World Oil Demand,0.031388888888888876,8,4,7,3,0,0
+MOMR_April_2022.pdf,2022,April,World Oil Supply,-0.03541479184771861,32,13,14,13,2,2
+MOMR_April_2022.pdf,2022,April,Product Markets and Refining Operations,-0.038660502079619706,1,1,1,1,0,0
+MOMR_April_2022.pdf,2022,April,Balance of Supply and Demand,-0.07467035782253177,1,0,0,0,0,0
+MOMR_May_2022.pdf,2022,May,World Oil Demand,0.004476584022038566,8,1,1,1,0,0
+MOMR_May_2022.pdf,2022,May,World Oil Supply,-0.03105554947549323,24,11,13,10,6,2
+MOMR_May_2022.pdf,2022,May,Product Markets and Refining Operations,-0.04570707070707069,2,0,1,1,2,0
+MOMR_May_2022.pdf,2022,May,Balance of Supply and Demand,-0.07808296731654399,1,0,0,0,0,0
+MOMR_June_2022.pdf,2022,June,World Oil Demand,0.13011586452762922,9,0,3,0,0,0
+MOMR_June_2022.pdf,2022,June,World Oil Supply,-0.034403661370035594,32,9,8,12,1,3
+MOMR_June_2022.pdf,2022,June,Product Markets and Refining Operations,-0.09740683229813672,4,0,1,0,1,0
+MOMR_June_2022.pdf,2022,June,Balance of Supply and Demand,-0.07628001494907972,1,0,0,0,0,0
+MOMR_July_2022.pdf,2022,July,World Oil Demand,0.15952380952380954,2,0,0,0,0,0
+MOMR_July_2022.pdf,2022,July,World Oil Supply,-0.022300405040503908,22,17,7,16,4,3
+MOMR_July_2022.pdf,2022,July,Product Markets and Refining Operations,-0.07342532467532474,6,1,1,0,0,0
+MOMR_July_2022.pdf,2022,July,Balance of Supply and Demand,-0.0560019497042398,2,0,0,0,0,0
+MOMR_August_2022.pdf,2022,August,World Oil Demand,0.09970960187353635,21,0,11,0,0,0
+MOMR_August_2022.pdf,2022,August,World Oil Supply,-0.03461612471267998,16,15,7,15,2,7
+MOMR_August_2022.pdf,2022,August,Product Markets and Refining Operations,-0.0631165311653117,1,1,1,1,0,0
+MOMR_August_2022.pdf,2022,August,Balance of Supply and Demand,-0.06584243051634359,1,0,0,0,0,0
+MOMR_September_2022.pdf,2022,September,World Oil Demand,0.04444444444444446,7,0,4,0,0,0
+MOMR_September_2022.pdf,2022,September,World Oil Supply,-0.02246265021468672,16,25,7,24,2,2
+MOMR_September_2022.pdf,2022,September,Product Markets and Refining Operations,0.005244800950683299,2,3,0,2,1,0
+MOMR_September_2022.pdf,2022,September,Balance of Supply and Demand,-0.05946982863041259,1,0,0,0,0,0
+MOMR_October_2022.pdf,2022,October,World Oil Demand,0.10924564796905228,14,2,5,2,0,0
+MOMR_October_2022.pdf,2022,October,World Oil Supply,-0.018189493181962897,10,23,4,24,0,5
+MOMR_October_2022.pdf,2022,October,Product Markets and Refining Operations,-0.015552154195011329,2,0,1,0,0,0
+MOMR_October_2022.pdf,2022,October,Balance of Supply and Demand,-0.06060527064176702,1,0,0,0,0,0
+MOMR_November_2022.pdf,2022,November,World Oil Demand,0.03425925925925926,6,0,3,0,0,0
+MOMR_November_2022.pdf,2022,November,World Oil Supply,-0.025595075757575636,8,21,8,22,2,7
+MOMR_November_2022.pdf,2022,November,Product Markets and Refining Operations,-0.026788389513108597,1,3,3,3,0,0
+MOMR_November_2022.pdf,2022,November,Balance of Supply and Demand,-0.06197146179160571,1,0,0,0,0,0
+MOMR_December_2022.pdf,2022,December,World Oil Demand,0.09092851592851595,10,1,4,1,1,0
+MOMR_December_2022.pdf,2022,December,World Oil Supply,-0.017618155517170185,13,10,9,8,2,7
+MOMR_December_2022.pdf,2022,December,Product Markets and Refining Operations,-0.046030179615705935,0,1,3,1,0,1
+MOMR_December_2022.pdf,2022,December,Balance of Supply and Demand,-0.05369795645530942,1,0,0,0,0,0
+MOMR_January_2023.pdf,2023,January,World Oil Demand,0.08917984189723323,17,0,4,0,0,0
+MOMR_January_2023.pdf,2023,January,World Oil Supply,-0.010698175734940323,18,19,13,18,0,4
+MOMR_January_2023.pdf,2023,January,Product Markets and Refining Operations,-0.042484793687325335,3,3,5,3,0,1
+MOMR_January_2023.pdf,2023,January,Balance of Supply and Demand,-0.05361428462932225,1,0,0,0,0,0
+MOMR_February_2023.pdf,2023,February,World Oil Demand,-0.07638888888888888,5,0,3,0,0,0
+MOMR_February_2023.pdf,2023,February,World Oil Supply,-0.02945745072599671,8,30,2,31,5,4
+MOMR_February_2023.pdf,2023,February,Product Markets and Refining Operations,-0.046131447917162255,0,3,0,3,2,1
+MOMR_February_2023.pdf,2023,February,Balance of Supply and Demand,-0.05170563863745684,1,0,0,0,0,0
+MOMR_March_2023.pdf,2023,March,World Oil Demand,0.06939655172413793,5,2,2,2,0,0
+MOMR_March_2023.pdf,2023,March,World Oil Supply,-0.025932514372645307,14,23,4,23,1,5
+MOMR_March_2023.pdf,2023,March,Product Markets and Refining Operations,-0.010696649029982354,0,1,0,1,1,0
+MOMR_March_2023.pdf,2023,March,Balance of Supply and Demand,-0.059947956455309426,1,0,0,0,0,0
+MOMR_April_2023.pdf,2023,April,World Oil Demand,0.04764492753623188,10,0,1,0,0,0
+MOMR_April_2023.pdf,2023,April,World Oil Supply,-0.02512990821292158,10,26,5,26,7,5
+MOMR_April_2023.pdf,2023,April,Product Markets and Refining Operations,-0.04289107430411777,2,3,0,3,1,0
+MOMR_April_2023.pdf,2023,April,Balance of Supply and Demand,-0.06960770373179134,1,0,0,0,0,0
+MOMR_June_2023.pdf,2023,June,World Oil Demand,0.0575,9,0,2,0,0,0
+MOMR_June_2023.pdf,2023,June,World Oil Supply,-0.023200017755681788,9,15,5,19,5,3
+MOMR_June_2023.pdf,2023,June,Product Markets and Refining Operations,-0.02748126102292767,0,2,0,2,0,0
+MOMR_June_2023.pdf,2023,June,Balance of Supply and Demand,-0.0736421252608303,1,0,0,0,0,0
+momr-june-2023.pdf,2023,June,World Oil Demand,0.0575,9,0,2,0,0,0
+momr-june-2023.pdf,2023,June,World Oil Supply,-0.023200017755681788,9,15,5,19,5,3
+momr-june-2023.pdf,2023,June,Product Markets and Refining Operations,-0.02748126102292767,0,2,0,2,0,0
+momr-june-2023.pdf,2023,June,Balance of Supply and Demand,-0.0736421252608303,1,0,0,0,0,0
+MOMR_July_2023.pdf,2023,July,World Oil Demand,0.11753472222222229,15,2,6,2,0,0
+MOMR_July_2023.pdf,2023,July,World Oil Supply,-0.021250158223842346,20,16,8,16,2,3
+MOMR_July_2023.pdf,2023,July,Product Markets and Refining Operations,-0.007844538326466042,0,3,0,3,0,0
+MOMR_July_2023.pdf,2023,July,Balance of Supply and Demand,-0.05262931512931515,1,0,0,0,0,0
+MOMR_August_2023.pdf,2023,August,World Oil Demand,0.07064393939393938,12,1,2,1,0,0
+MOMR_August_2023.pdf,2023,August,World Oil Supply,-0.026688828532578483,17,29,10,30,2,0
+MOMR_August_2023.pdf,2023,August,Product Markets and Refining Operations,-0.026535493827160465,3,2,1,2,0,0
+MOMR_August_2023.pdf,2023,August,Balance of Supply and Demand,-0.056705345615120084,1,0,0,0,0,0
+MOMR_September_2023.pdf,2023,September,World Oil Demand,0.07311253561253561,14,2,2,2,0,0
+MOMR_September_2023.pdf,2023,September,World Oil Supply,-0.031327152229214075,15,22,9,23,3,1
+MOMR_September_2023.pdf,2023,September,Product Markets and Refining Operations,-0.08839826839826843,1,1,0,2,2,0
+MOMR_September_2023.pdf,2023,September,Balance of Supply and Demand,-0.05477802920984741,1,0,0,0,0,0
+MOMR_October_2023.pdf,2023,October,World Oil Demand,0.02139917695473251,9,2,4,2,0,0
+MOMR_October_2023.pdf,2023,October,World Oil Supply,-0.02522148253240691,25,38,10,38,2,3
+MOMR_October_2023.pdf,2023,October,Product Markets and Refining Operations,-0.03330896961331742,2,7,1,7,0,0
+MOMR_October_2023.pdf,2023,October,Balance of Supply and Demand,-0.06538408981590804,1,0,0,0,0,0
+MOMR_November_2023.pdf,2023,November,World Oil Demand,0.04916666666666668,6,0,3,0,0,0
+MOMR_November_2023.pdf,2023,November,World Oil Supply,-0.028075289539044156,21,37,5,35,1,10
+MOMR_November_2023.pdf,2023,November,Product Markets and Refining Operations,-0.06217521367521366,3,3,3,2,0,3
+MOMR_November_2023.pdf,2023,November,Balance of Supply and Demand,-0.07650145880072887,1,0,0,0,0,0
+MOMR_December_2023.pdf,2023,December,World Oil Demand,0.10709876543209879,15,0,3,0,0,0
+MOMR_December_2023.pdf,2023,December,World Oil Supply,-0.021742392781636935,23,29,4,29,2,3
+MOMR_December_2023.pdf,2023,December,Product Markets and Refining Operations,-0.05822321576419935,2,2,1,2,0,0
+MOMR_December_2023.pdf,2023,December,Balance of Supply and Demand,-0.06741792270989355,1,0,0,0,0,0
+MOMR_January_2024.pdf,2024,January,World Oil Demand,0.07767676767676773,15,0,4,0,0,0
+MOMR_January_2024.pdf,2024,January,World Oil Supply,-0.031150671550671492,23,26,12,22,2,2
+MOMR_January_2024.pdf,2024,January,Product Markets and Refining Operations,-0.044608700020092394,2,2,1,2,0,0
+MOMR_January_2024.pdf,2024,January,Balance of Supply and Demand,-0.058681758056758085,1,0,0,0,0,0
+MOMR_February_2024.pdf,2024,February,World Oil Demand,0.107,6,0,2,0,0,0
+MOMR_February_2024.pdf,2024,February,World Oil Supply,-0.04639774888793481,20,23,8,22,1,5
+MOMR_February_2024.pdf,2024,February,Product Markets and Refining Operations,-0.08318759018759021,2,2,0,2,1,0
+MOMR_February_2024.pdf,2024,February,Balance of Supply and Demand,-0.06062197606315256,2,0,0,0,0,0
+MOMR_March_2024.pdf,2024,March,World Oil Demand,0.07661290322580645,7,0,2,0,0,0
+MOMR_March_2024.pdf,2024,March,World Oil Supply,-0.042248803437074996,26,22,2,22,3,5
+MOMR_March_2024.pdf,2024,March,Product Markets and Refining Operations,-0.15152797819464492,3,3,0,3,1,1
+MOMR_March_2024.pdf,2024,March,Balance of Supply and Demand,-0.051314788814788834,6,0,0,0,0,0
+MOMR_April_2024.pdf,2024,April,World Oil Demand,0.044017094017094006,7,2,2,2,0,0
+MOMR_April_2024.pdf,2024,April,World Oil Supply,-0.045513777844823224,19,25,7,24,2,2
+MOMR_April_2024.pdf,2024,April,Product Markets and Refining Operations,-0.04170634920634919,1,5,0,5,0,0
+MOMR_April_2024.pdf,2024,April,Balance of Supply and Demand,-0.08786247998576766,3,0,0,0,0,0
+MOMR_May_2024.pdf,2024,May,World Oil Demand,-0.014804292929292927,13,2,2,2,0,0
+MOMR_May_2024.pdf,2024,May,World Oil Supply,-0.02322423647079825,29,23,8,23,1,4
+MOMR_May_2024.pdf,2024,May,Product Markets and Refining Operations,-0.0711472505668934,3,3,0,3,0,2
+MOMR_May_2024.pdf,2024,May,Balance of Supply and Demand,-0.07464460452741707,1,0,0,0,0,0
+MOMR_June_2024.pdf,2024,June,World Oil Demand,0.010806451612903232,4,1,1,1,0,0
+MOMR_June_2024.pdf,2024,June,World Oil Supply,-0.01356657027812739,17,20,6,19,1,5
+MOMR_June_2024.pdf,2024,June,Product Markets and Refining Operations,-0.03787179487179485,0,2,0,2,0,0
+MOMR_June_2024.pdf,2024,June,Balance of Supply and Demand,-0.10167466698078942,1,0,0,0,0,0
+MOMR_July_2024.pdf,2024,July,World Oil Demand,0.04242424242424241,1,0,0,0,0,0
+MOMR_July_2024.pdf,2024,July,World Oil Supply,-0.03562190332453997,27,25,9,27,1,6
+MOMR_July_2024.pdf,2024,July,Product Markets and Refining Operations,-0.08230842911877395,2,2,0,3,1,0
+MOMR_July_2024.pdf,2024,July,Balance of Supply and Demand,-0.10664905080489494,1,0,0,0,0,0
+MOMR_August_2024.pdf,2024,August,World Oil Demand,0.0033282828282828352,11,0,1,0,0,0
+MOMR_August_2024.pdf,2024,August,World Oil Supply,-0.026049336874005985,24,33,7,36,0,4
+MOMR_August_2024.pdf,2024,August,Product Markets and Refining Operations,-0.05270161290322579,1,3,0,5,0,1
+MOMR_August_2024.pdf,2024,August,Balance of Supply and Demand,-0.10658561808561808,1,0,0,0,0,0
+MOMR_September_2024.pdf,2024,September,World Oil Demand,0.011749438832772172,13,1,3,1,0,0
+MOMR_September_2024.pdf,2024,September,World Oil Supply,-0.03336537122471406,20,43,6,40,0,2
+MOMR_September_2024.pdf,2024,September,Product Markets and Refining Operations,-0.0110324074074074,0,2,0,2,0,1
+MOMR_September_2024.pdf,2024,September,Balance of Supply and Demand,-0.10722995936811723,1,0,0,0,0,0
+MOMR_October_2024.pdf,2024,October,World Oil Demand,-0.0006666666666666621,6,0,4,0,0,0
+MOMR_October_2024.pdf,2024,October,World Oil Supply,-0.034178256499324995,20,44,4,43,0,4
+MOMR_October_2024.pdf,2024,October,Product Markets and Refining Operations,-0.04693672839506173,0,4,0,4,0,0
+MOMR_October_2024.pdf,2024,October,Balance of Supply and Demand,-0.1108118307131465,1,0,0,0,0,0
+MOMR_November_2024.pdf,2024,November,World Oil Demand,0.006627680311890829,17,1,4,1,0,0
+MOMR_November_2024.pdf,2024,November,World Oil Supply,-0.02482002926447354,24,34,8,34,4,6
+MOMR_November_2024.pdf,2024,November,Product Markets and Refining Operations,-0.008065221815221813,1,3,0,3,1,1
+MOMR_November_2024.pdf,2024,November,Balance of Supply and Demand,-0.1105155146545875,1,0,0,0,0,0
+MOMR_December_2024.pdf,2024,December,World Oil Demand,0.04208754208754208,7,0,4,0,0,0
+MOMR_December_2024.pdf,2024,December,World Oil Supply,-0.042114050269747676,22,40,10,34,2,2
+MOMR_December_2024.pdf,2024,December,Product Markets and Refining Operations,-0.07021796641361862,2,5,1,4,1,0
+MOMR_December_2024.pdf,2024,December,Balance of Supply and Demand,-0.1105155146545875,1,0,0,0,0,0
+MOMR_January_2025.pdf,2025,January,World Oil Demand,0.012322443181818177,14,4,6,4,0,0
+MOMR_January_2025.pdf,2025,January,World Oil Supply,-0.029347797069316006,26,31,6,29,0,2
+MOMR_January_2025.pdf,2025,January,Product Markets and Refining Operations,-0.07435185185185186,2,4,1,4,0,0
+MOMR_January_2025.pdf,2025,January,Balance of Supply and Demand,-0.10271687187271603,1,0,0,0,0,0
+MOMR_February_2025.pdf,2025,February,World Oil Demand,0.025790513833992067,13,3,6,3,0,0
+MOMR_February_2025.pdf,2025,February,World Oil Supply,-0.04198518372760796,24,36,4,36,2,1
+MOMR_February_2025.pdf,2025,February,Product Markets and Refining Operations,-0.009099206349206338,0,2,0,2,0,0
+MOMR_February_2025.pdf,2025,February,Balance of Supply and Demand,-0.10524397596315405,1,0,0,0,0,0
+MOMR_March_2025.pdf,2025,March,World Oil Demand,-0.061538461538461535,5,0,3,0,0,0
+MOMR_March_2025.pdf,2025,March,World Oil Supply,-0.04626229693123714,24,26,10,26,0,0
+MOMR_March_2025.pdf,2025,March,Product Markets and Refining Operations,-0.07731133389028126,5,2,1,2,0,0
+MOMR_March_2025.pdf,2025,March,Balance of Supply and Demand,-0.09870155275084852,0,0,0,0,0,0
+MOMR_April_2025.pdf,2025,April,World Oil Demand,0.01500000000000001,9,0,4,0,0,0
+MOMR_April_2025.pdf,2025,April,World Oil Supply,-0.0548103461139765,11,28,6,26,0,3
+MOMR_April_2025.pdf,2025,April,Product Markets and Refining Operations,-0.05424004192872116,0,3,0,3,0,1
+MOMR_April_2025.pdf,2025,April,Balance of Supply and Demand,-0.10554858104858104,1,0,0,0,0,0
+MOMR_May_2025.pdf,2025,May,World Oil Demand,0.005303030303030309,6,0,3,0,0,0
+MOMR_May_2025.pdf,2025,May,World Oil Supply,-0.04648704734419017,19,26,9,25,1,4
+MOMR_May_2025.pdf,2025,May,Product Markets and Refining Operations,-0.03815882707673752,2,3,0,4,0,2
+MOMR_May_2025.pdf,2025,May,Balance of Supply and Demand,-0.09661951144094,2,0,0,0,0,0
+MOMR_June_2025.pdf,2025,June,World Oil Demand,0.012316725932797363,16,2,4,2,0,0
+MOMR_June_2025.pdf,2025,June,World Oil Supply,-0.051947582972582944,28,21,12,23,0,0
+MOMR_June_2025.pdf,2025,June,Product Markets and Refining Operations,-0.038256448412698395,1,4,0,4,0,0
+MOMR_June_2025.pdf,2025,June,Balance of Supply and Demand,-0.11010772752152062,3,0,0,0,0,0
+MOMR_July_2025.pdf,2025,July,World Oil Demand,0.011905938264633912,11,0,4,0,0,0
+MOMR_July_2025.pdf,2025,July,World Oil Supply,-0.05477723368228305,22,29,7,30,2,3
+MOMR_July_2025.pdf,2025,July,Product Markets and Refining Operations,-0.0704656862745098,3,3,1,5,0,0
+MOMR_July_2025.pdf,2025,July,Balance of Supply and Demand,-0.10801429473304469,3,0,0,0,0,0
+MOMR_August_2025.pdf,2025,August,World Oil Demand,0.041666666666666664,1,0,1,0,0,0
+MOMR_August_2025.pdf,2025,August,World Oil Supply,-0.053368299853845856,20,33,7,30,0,4
+MOMR_August_2025.pdf,2025,August,Product Markets and Refining Operations,0.00045953360768176806,0,6,0,4,0,0
+MOMR_August_2025.pdf,2025,August,Balance of Supply and Demand,-0.11386251679355128,3,0,0,0,0,0
+MOMR_September_2025.pdf,2025,September,World Oil Demand,-0.022222222222222216,5,0,2,0,0,0
+MOMR_September_2025.pdf,2025,September,World Oil Supply,-0.04110514426970113,20,20,8,20,1,3
+MOMR_September_2025.pdf,2025,September,Product Markets and Refining Operations,-0.01907496782496781,1,0,0,0,0,1
+MOMR_September_2025.pdf,2025,September,Balance of Supply and Demand,-0.11358358271109949,3,0,0,0,0,0
+MOMR_October_2025.pdf,2025,October,World Oil Demand,0.05635066885066885,10,1,2,1,0,0
+MOMR_October_2025.pdf,2025,October,World Oil Supply,-0.03718627816397516,18,29,4,28,2,2
+MOMR_October_2025.pdf,2025,October,Product Markets and Refining Operations,-0.020286317058468933,0,0,2,0,1,0
+MOMR_October_2025.pdf,2025,October,Balance of Supply and Demand,-0.1132999882999883,3,0,0,0,0,0
+MOMR_November_2025.pdf,2025,November,World Oil Demand,0.05160256410256411,5,1,3,1,0,0
+MOMR_November_2025.pdf,2025,November,World Oil Supply,-0.01726182849332936,22,19,5,17,2,1
+MOMR_November_2025.pdf,2025,November,Product Markets and Refining Operations,0.01766332497911446,2,0,0,0,0,0
+MOMR_November_2025.pdf,2025,November,Balance of Supply and Demand,-0.11308321308321305,3,0,0,0,0,0
